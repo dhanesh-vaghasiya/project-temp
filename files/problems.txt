@@ -1,0 +1,18 @@
+problem no 2:- virtual garden
+	easy idea hard to implement
+
+problem no 24:- make traffic management enhance
+	making smart traffic light which uses real time images
+	easy idea hard to implement
+
+problem no 31:- learning path enhanced dashboard
+	nigos idea
+
+problem no 108:- game for ground water level management
+
+
+easy concept and already existing concepts
+problem no 45:- frelancin platform
+problem no 50:- market app for farmers
+problem no 61:- online chatbox for museum ticket booking
+problem no 113:- simple app include data about constitution with example and simply used language and include game's quiz about the recent learned or understanding of constitution and then explain the answer
