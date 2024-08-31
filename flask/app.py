@@ -37,7 +37,7 @@ response = ollama.chat(model='llama3.1:8b', messages=[
 @app.route('/hello/<name>')
 def hello(name=None):
     return response['message']['content']
-print('heledlfd')
+print('heledlfddfsdd')
 
 # asyncio.run(chat())
 # while True:
