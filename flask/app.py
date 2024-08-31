@@ -23,7 +23,7 @@ app = Flask(__name__)
 
 response = None
 response = ollama.chat(model='llama3.1:8b', messages=[
-   {
+    {
         'role': 'system',
         'content': 'You are a quiz generator. Generate quizzes with one question and four options. Mark the correct option.'
     },
